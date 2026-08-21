@@ -104,7 +104,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -150,10 +149,10 @@ node_modules/
 whoosh_index/
 
 #VSCode
-.vscode/
 
 #PyCharm
 .idea/
 
 .init_password
 .encryption_key
+config.bat
